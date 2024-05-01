@@ -66,8 +66,8 @@ function PortFolio() {
                         </div>
 
                         <div className='space-x-2'>
-                            <button className='bg-green-500 font-bold py-2 px-3 rounded text-white hover:bg-green-600'>Video</button>
-                            <button className='bg-blue-500 font-bold py-2 px-3 rounded text-white hover:bg-blue-600'>Source Code</button>
+                            <button className='bg-green-500 font-bold py-1 px-2 rounded text-white hover:bg-green-600'>Video</button>
+                            <button className='bg-blue-500 font-bold py-1 px-2 rounded text-white hover:bg-blue-600'>Source Code</button>
                         </div>
 
                     </div>
